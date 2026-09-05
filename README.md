@@ -111,15 +111,7 @@ I'm actively practicing **Data Structures & Algorithms** and improving my proble
 
 
 
-### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
-![Stats](./profile/stats.svg)  
-![Top Langs](./profile/top-langs.svg)  
-
----
----
 
 ## 🧩 LeetCode Stats
 
