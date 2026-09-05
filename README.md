@@ -127,7 +127,7 @@ I'm actively practicing **Data Structures & Algorithms** and improving my proble
 
 <a href="https://leetcode.com/u/VISHWA_PALANIVEL/">
 
-<img src="https://leetcard.jacoblin.cool/VISHWA_PALANIVEL?theme=dark&font=Stick%20No%20Bills&ext=activity" />
+![LeetCode Stats](https://leetcard.jacoblin.cool/VISHWA_PALANIVEL?theme=dark&font=Stick%20No%20Bills)
 
 </a>
 
