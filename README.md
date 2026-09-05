@@ -111,14 +111,19 @@ I'm actively practicing **Data Structures & Algorithms** and improving my proble
 
 
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VISHWA-018&theme=dark&show_icons=true&hide=issues,contribs" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=VISHWA-018&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=VISHWA-018&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWA-018&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 ---
 
 ## 🧩 LeetCode Stats
