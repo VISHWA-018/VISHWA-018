@@ -139,7 +139,7 @@ I'm actively practicing **Data Structures & Algorithms** and improving my proble
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/VISHWA-018/VISHWA-018/output/github-snake.svg" alt="GitHub Contribution Snake"/>
+![snake gif](https://github.com/VISHWA-018/VISHWA-018/blob/output/github-snake-dark.svg)
 
 </p>
 
@@ -196,4 +196,4 @@ I'm always interested in connecting with developers, learning new technologies, 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
 <h4 align="center">💻 Code • Learn • Build • Repeat 🔥</h4>
-![snake gif](https://github.com/VISHWA-018/VISHWA-018/blob/output/github-snake-dark.svg)
+
