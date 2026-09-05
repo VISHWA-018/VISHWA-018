@@ -147,7 +147,6 @@ I'm actively practicing **Data Structures & Algorithms** and improving my proble
 
 ## 📈 GitHub Activity
 
-## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=VISHWA-018&show_icons=true&theme=github_dark&hide_border=true" />
