@@ -147,21 +147,19 @@ I'm actively practicing **Data Structures & Algorithms** and improving my proble
 
 ## 📈 GitHub Activity
 
-<!-- Add your GitHub Activity Graph here -->
+## 📊 GitHub Stats
 
-<!--
 <p align="center">
-
-<a href="https://github.com/VISHWA-018">
-
-<img src="YOUR_GITHUB_ACTIVITY_GRAPH_LINK" alt="GitHub Activity Graph"/>
-
-</a>
-
+<img src="https://github-readme-stats.vercel.app/api?username=VISHWA-018&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
--->
 
----
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=VISHWA-018&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWA-018&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ## 👀 Profile Views
 
